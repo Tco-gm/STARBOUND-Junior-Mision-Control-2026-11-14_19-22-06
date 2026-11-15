@@ -298,7 +298,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1001, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 50
+      value: 48
       objectReference: {fileID: 0}
     - target: {fileID: 1001, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_LocalScale.x
@@ -366,15 +366,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1002, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_FillColor.b
-      value: 0.30980396
+      value: 0.09625311
       objectReference: {fileID: 0}
     - target: {fileID: 1002, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_FillColor.g
-      value: 0.96862745
+      value: 0.9716981
       objectReference: {fileID: 0}
     - target: {fileID: 1002, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_FillColor.r
-      value: 0.75678104
+      value: 0.7285701
       objectReference: {fileID: 0}
     - target: {fileID: 1002, guid: d75c62bccfd542ba805f087691afaec7, type: 3}
       propertyPath: m_MainColor.b
